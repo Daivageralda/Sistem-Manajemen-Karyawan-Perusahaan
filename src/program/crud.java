@@ -457,5 +457,4 @@ public class crud extends javax.swing.JFrame {
     private gambar.refreshICON refresh;
     private javax.swing.JTable table;
     private gambar.updateICON update;
-    // End of variables declaration//GEN-END:variables
 }
