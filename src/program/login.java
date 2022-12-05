@@ -167,5 +167,4 @@ public class login extends javax.swing.JFrame {
     private gambar.loginBG loginBG2;
     private javax.swing.JPasswordField password;
     private javax.swing.JTextField username;
-    // End of variables declaration//GEN-END:variables
 }
