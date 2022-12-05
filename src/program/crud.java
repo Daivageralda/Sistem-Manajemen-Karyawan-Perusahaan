@@ -439,7 +439,7 @@ public class crud extends javax.swing.JFrame {
         });
     }
 
-    // Variables declaration - do not modify//GEN-BEGIN:variables
+  
     private gambar.createICON add;
     private gambar.crudBG crudBG1;
     private gambar.deleteICON delete;
